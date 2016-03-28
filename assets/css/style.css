@@ -377,3 +377,33 @@ input {
 	margin-top: 30px;
 	letter-spacing: 1px;
 }
+
+#project {
+  background-color: #F5F5F5;
+  border-top: 3px solid #1abc9c; }
+  #project h2 {
+    text-align: center;
+    color: #5A5A72;
+    
+     }
+  #project p {
+    text-align: center;
+    font-size: 1.5em;
+    color: #5A5A72; }
+  #project ul {
+    margin-left: 10em;
+    padding-top: 2em; }
+    #project ul li {
+      text-transform: uppercase;
+      text-decoration: none;
+      display: inline;
+      margin-right: 4em; }
+      #project ul li a {
+        color: #fff;
+        font-size: 1.3em; }
+        #project ul li a:hover {
+          text-decoration: none; }
+  #project .project-row-custom {
+    margin-top: 2em; }
+  #project #project-ul-custom .mix {
+    display: none; }
